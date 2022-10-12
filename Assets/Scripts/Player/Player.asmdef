@@ -1,0 +1,19 @@
+{
+    "name": "Player",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2f32e05df8ac62d4e967ff4d5ffb2f14",
+        "GUID:5126a384fef05cf468ce576ab95fc2b9",
+        "GUID:d747109b0b2debc498f03f488669b325",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

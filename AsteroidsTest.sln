@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Player", "Player.csproj", "{75c74896-083f-2013-0650-1fe4a8f5f4cf}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main", "Main.csproj", "{481c8539-77df-251d-2b76-11e5ebf57af8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bullets", "Bullets.csproj", "{9a43519d-09a8-3fc7-a510-455cce25ca9b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asteroids", "Asteroids.csproj", "{915a7539-8718-2f70-9728-95e8d5b2c9ca}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Managers", "Managers.csproj", "{09508775-0c79-4da6-52f0-f896febd3341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UFO", "UFO.csproj", "{b102a50d-50fd-70af-2054-22c090c9afe7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Physcis", "Physcis.csproj", "{0ae3a610-96d4-b928-696f-af1cff3ab206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI.csproj", "{cb01c2c2-2bae-defe-8f2e-8ab26658531c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{bc84ba05-49f7-dd6b-06c7-4f823f17bcff}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75c74896-083f-2013-0650-1fe4a8f5f4cf}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75c74896-083f-2013-0650-1fe4a8f5f4cf}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481c8539-77df-251d-2b76-11e5ebf57af8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481c8539-77df-251d-2b76-11e5ebf57af8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9a43519d-09a8-3fc7-a510-455cce25ca9b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9a43519d-09a8-3fc7-a510-455cce25ca9b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915a7539-8718-2f70-9728-95e8d5b2c9ca}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915a7539-8718-2f70-9728-95e8d5b2c9ca}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09508775-0c79-4da6-52f0-f896febd3341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09508775-0c79-4da6-52f0-f896febd3341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b102a50d-50fd-70af-2054-22c090c9afe7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b102a50d-50fd-70af-2054-22c090c9afe7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ae3a610-96d4-b928-696f-af1cff3ab206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ae3a610-96d4-b928-696f-af1cff3ab206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{cb01c2c2-2bae-defe-8f2e-8ab26658531c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{cb01c2c2-2bae-defe-8f2e-8ab26658531c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{bc84ba05-49f7-dd6b-06c7-4f823f17bcff}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{bc84ba05-49f7-dd6b-06c7-4f823f17bcff}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
